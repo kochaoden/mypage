@@ -1,6 +1,8 @@
 # 使用したMOD一覧
 めちゃくちゃ参考にさせて頂いたサイト
+
 https://stelladia.club/game/stardewvalley/stardewvalley-mod-osusume/#toc_id_2_1_9
+
 導入方法やら何やら分かりやすくて素晴らしいサイトです。
 
 - - - 
@@ -27,6 +29,7 @@ https://stelladia.club/game/stardewvalley/stardewvalley-mod-osusume/#toc_id_2_1_
 - [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
     - アイテム加工を自動でやってくれる優れMOD。ズボラな人にピッタリ。
     - 生産ラインとか考えたくなりますね。
+    - と思ったのですが、プレイした感想として強すぎるので封印します。
 
 - - - 
 ## グラフィック系
