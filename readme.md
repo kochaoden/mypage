@@ -29,7 +29,6 @@ https://stelladia.club/game/stardewvalley/stardewvalley-mod-osusume/#toc_id_2_1_
 - [Automate](https://www.nexusmods.com/stardewvalley/mods/1063)
     - アイテム加工を自動でやってくれる優れMOD。ズボラな人にピッタリ。
     - 生産ラインとか考えたくなりますね。
-    - と思ったのですが、プレイした感想として強すぎるので封印します。
 
 - - - 
 ## グラフィック系
