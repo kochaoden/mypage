@@ -1,12 +1,18 @@
 # 使用したMOD一覧
+
+**Ver1.4に対応しました！！**
+
 めちゃくちゃ参考にさせて頂いたサイト
 
 https://stelladia.club/game/stardewvalley/stardewvalley-mod-osusume/#toc_id_2_1_9
 
 導入方法やら何やら分かりやすくて素晴らしいサイトです。
 
+**Ver1.4に対応してないMODも掲載されているので注意！**
+
 - - - 
 ## SMAPI
+- [Ver.3.0.0](https://smapi.io/)
 - これはMOD導入する上でのベースとなるので多くは語りません。
 
 - - - 
@@ -15,8 +21,8 @@ https://stelladia.club/game/stardewvalley/stardewvalley-mod-osusume/#toc_id_2_1_
 - [UIInfoSuite](https://www.nexusmods.com/stardewvalley/mods/1150?tab=files)
     - アイテムの各種情報やマップの拡張等々、便利機能盛りだくさんのMOD。
 
-- [HP Bar](https://www.nexusmods.com/stardewvalley/mods/1736)
-    - モンスターのHPをゲージ表示してくれるMOD。設定はまだ弄ってません。
+- [Enemy Health Bars](https://www.nexusmods.com/stardewvalley/mods/3627?tab=files)
+    - Ver1.4に対応しているらしいのでHP Barからこっちにしました。
 
 - - - 
 ## バランス変更系
@@ -30,6 +36,10 @@ https://stelladia.club/game/stardewvalley/stardewvalley-mod-osusume/#toc_id_2_1_
     - アイテム加工を自動でやってくれる優れMOD。ズボラな人にピッタリ。
     - 生産ラインとか考えたくなりますね。
 
+- [Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109?tab=files)
+    - ゲートの自動開閉をしてくれるMODらしい。
+        - Ver1.4対応版がNexusに上がっていたので適用しました。
+
 - - - 
 ## グラフィック系
   - [Better Artisan Good Icons](https://www.nexusmods.com/stardewvalley/mods/2080)
@@ -41,10 +51,6 @@ https://stelladia.club/game/stardewvalley/stardewvalley-mod-osusume/#toc_id_2_1_
 - - - 
 
 ### 入れ方が分からなくて断念したもの
-  - [Automatic Gates](https://www.nexusmods.com/stardewvalley/mods/3109?tab=files)
-    - ゲートの自動開閉をしてくれるMODらしい。
-      - なにやらForumから最新版をDLしないといけないっぽいので断念。
-      - よくわからないところにあんまり情報登録したくないんですよね。
   - [Brighter Dig Spots](https://www.nexusmods.com/stardewvalley/mods/2114?tab=files)
     - 地面の採取スポットが7色に輝くMOD
       - 同上。
